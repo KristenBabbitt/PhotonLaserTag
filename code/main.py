@@ -22,6 +22,7 @@ def build_root() -> tk.Tk:
         root.state("zoomed")
         #Load logo! change to ico extension
         root.iconbitmap("images/logo.jpg") 
+        # TEST COMMIT
 
 
     # Force window to fill screen, place at top left
